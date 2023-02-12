@@ -8,7 +8,7 @@ Project Description:
 
 Note: You would need to have Bootstrap CSS installed and download to view the websites properly!
 Instructions:
-  -> Download the files home.html, aboutme.html, contact.html, and the background image (20220609_172550.jpg) into the Bootstrap CSS folder (In the Bootstrap folder should have subfolders: css, fonts, and js)
+  -> Download the files home.html, AboutMe.html, contact.html, and the background image (20220609_172550.jpg) into the Bootstrap CSS folder (In the Bootstrap folder should have subfolders: css, fonts, and js)
   -> Open one of these files into a webbrowser (I used firefox to test and configure the website). It should work on Firefox, Interexplor and Google Chrome.
   -> Enjoy!
   
